@@ -1,0 +1,66 @@
+# Сгенерированные сборки CMake
+cmake-build-*/
+build*/
+out/
+
+# Файлы и папки IDE
+.idea/
+*.user
+*.suo
+*.sdf
+*.opensdf
+
+# Кэш компилятора
+*.ilk
+*.pdb
+*.pch
+
+# Исполняемые файлы и библиотеки
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Файлы объектного кода
+*.o
+*.obj
+
+# Файлы зависимостей
+*.d
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+*~
+
+# Документация Doxygen
+docs/html/
+docs/latex/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Тестовые покрытия и отчеты
+*.gcda
+*.gcno
+coverage/
+*.lcov
+
+# CLion специфичные
+CMakeLists.txt.user
+cmake_install.cmake
+
+# Автогенерируемые CMake файлы
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+_deps/
+
+# Файлы покрытия кода
+*.gcov
