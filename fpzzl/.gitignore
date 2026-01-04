@@ -1,0 +1,18 @@
+# CMake
+cmake-build-*/
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# CLion
+.idea/
+
+# C++
+*.exe
+*.out
+*.o
+*.obj
+
+# Doxygen
+docs/html/
+docs/latex/
