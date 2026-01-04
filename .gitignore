@@ -1,0 +1,30 @@
+# CLion + CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# JetBrains IDE
+.idea/
+*.iml
+
+# Binaries (Windows)
+*.exe
+*.dll
+*.pdb
+*.obj
+
+# Google Test dependencies
+_deps/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+# Coverage (optional)
+*.gcda
+*.gcno

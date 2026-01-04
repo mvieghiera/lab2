@@ -1,0 +1,12 @@
+#ifndef AUTOREPAIRSHOP_CONSTANTS_H
+#define AUTOREPAIRSHOP_CONSTANTS_H
+
+const int MIN_CAR_YEAR = 1900;
+const double MIN_INVOICE_AMOUNT = 0.01;
+const double MIN_SALARY = 0.0;
+const double MIN_PART_PRICE = 0.01;
+const int MIN_STOCK_QUANTITY = 0;
+const double MIN_PAYMENT_AMOUNT = 0.01;
+const double MIN_SERVICE_PRICE = 0.01;
+
+#endif //AUTOREPAIRSHOP_CONSTANTS_H
